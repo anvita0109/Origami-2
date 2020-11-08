@@ -46,3 +46,22 @@ a{
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
+
+.image{
+    display: flex;
+    justify-content: center;
+}
+
+.image2{
+    display: flex;
+    justify-content: center;
+}
+
+.image3{
+    display: flex;
+    justify-content: center;
+}
+
+h2,p{
+    text-align: center;
+}
